@@ -1,0 +1,56 @@
+INFO:pyftpdlib:>>> starting FTP server on 113.54.203.91:21, pid=2888 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: None
+INFO:pyftpdlib:>>> starting FTP server on 113.54.203.91:21, pid=17084 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: None
+INFO:pyftpdlib:>>> starting FTP server on 113.54.203.91:21, pid=16800 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: None
+INFO:pyftpdlib:>>> starting FTP server on 113.54.203.91:21, pid=8804 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: None
+INFO:pyftpdlib:>>> starting FTP server on 113.54.203.91:21, pid=11084 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: None
+INFO:pyftpdlib:113.54.215.121:37480-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.215.121:37480-[user] USER 'user' logged in.
+INFO:pyftpdlib:113.54.215.121:37480-[user] CWD C:\Users\hasee\Downloads 250
+INFO:pyftpdlib:113.54.215.121:37480-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59666-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59666-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:113.54.203.91:59666-[] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59731-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59731-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:113.54.203.91:59731-[] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59811-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59811-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:113.54.203.91:59811-[] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59819-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59819-[user] USER 'user' logged in.
+INFO:pyftpdlib:113.54.203.91:59819-[user] CWD C:\Users\hasee\Downloads 250
+INFO:pyftpdlib:113.54.203.91:59819-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59827-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59827-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:113.54.203.91:59827-[] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59833-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59833-[user] USER 'user' logged in.
+INFO:pyftpdlib:113.54.203.91:59833-[user] CWD C:\Users\hasee\Downloads\电影电视对人们行为的影响.txt 550 'Not a directory.'
+INFO:pyftpdlib:113.54.203.91:59833-[user] RETR C:\Users\hasee\Downloads\电影电视对人们行为的影响.txt completed=1 bytes=1625 seconds=0.0
+INFO:pyftpdlib:113.54.203.91:59833-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59906-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59906-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:113.54.203.91:59906-[] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.203.91:59910-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.203.91:59910-[user] USER 'user' logged in.
+INFO:pyftpdlib:113.54.203.91:59910-[user] CWD C:\Users\hasee\Downloads 250
+INFO:pyftpdlib:113.54.203.91:59910-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:113.54.215.121:37538-[] FTP session opened (connect)
+INFO:pyftpdlib:113.54.215.121:37538-[user] USER 'user' logged in.
+INFO:pyftpdlib:113.54.215.121:37538-[user] CWD C:\Users\hasee\Downloads 250
+INFO:pyftpdlib:113.54.215.121:37538-[user] FTP session closed (disconnect).
