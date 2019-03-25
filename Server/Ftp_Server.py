@@ -58,7 +58,7 @@ class ftpServer():
     #定义启动函数
     def run(self):
         try:
-            logging.basicConfig(filename='Log_file/server.log', level=logging.INFO)  # 将控制台输出的日志文件通过logging保存在server.log日志文件中
+            logging.basicConfig(filename='Log_file/server.log', level=logging.INFO,format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s')  # 将控制台输出的日志文件通过logging保存在server.log日志文件中
             self.ServerStart().serve_forever()
             # 启动异步IO循环
         except Exception as e:
@@ -69,7 +69,7 @@ class ftpServer():
         try:
             self.ServerStart().close_all()
         except Exception as e:
-           QMessageBox.information(self,'错误',str(e))
+            print(str(e))
 
 
 if __name__=='__main__':

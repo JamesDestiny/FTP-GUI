@@ -13,6 +13,7 @@ import socket
 from Server.Ftp_Server import ftpServer
 import inspect
 import ctypes
+import time
 
 
 #定义日志文件查看页面的类
@@ -164,14 +165,11 @@ class mainwid(QMainWindow,Ui_MainWindow):
         self.pushButton_3.setEnabled(False)
         self.pushButton_4.setEnabled(False)
         self.pushButton_5.setEnabled(False)
-        f = ftpServer()
-        f1 = ftpServer()
-        f2 = ftpServer()
-        f3 = ftpServer()
-        self.t = threading.Thread(target=f.run)
-        self.t1 = threading.Thread(target=f1.run)
-        self.t2 =threading.Thread(target=f2.run)
-        self.t3 = threading.Thread(target=f3.run)
+        self.f = ftpServer()
+        self.t = threading.Thread(target=self.f.run)
+        self.t1 = threading.Thread(target=self.f.run)
+        self.t2 =threading.Thread(target=self.f.run)
+        self.t3 = threading.Thread(target=self.f.run)
 
     #杀死ftp服务器线程
     def _async_raise(self,tid, exctype):
@@ -237,7 +235,8 @@ class mainwid(QMainWindow,Ui_MainWindow):
             self.pushButton_4.setEnabled(False)
             self.pushButton_5.setEnabled(False)
             self.label_2.setText('控制台信息：服务器已关闭！')
-            self.claear_conn_ip()
+            self.textBrowser.setText('')
+            self.textEdit.setText('')
         except Exception as e:
             QMessageBox.information(self,'错误',str(e))
 
@@ -256,12 +255,18 @@ class mainwid(QMainWindow,Ui_MainWindow):
                         QMessageBox.information(self,'错误',str(e))
                 else:
                     time.sleep(1)
-                    if  self.t.is_alive():
+                    if  not self.t.is_alive() and not self.t1.is_alive() and not self.t2.is_alive() and not self.t3.is_alive():
                         self.t.start()
+                        QMessageBox.information(self, '提示', '开启成功！')
+                        self.outtextEdit()
+                        self.label_2.setText('控制台信息：已开FTP服务器IP地址：ftp://' + self.getconfig('address'))
+                    elif self.t.is_alive() and not self.t1.is_alive() and not self.t2.is_alive() and not self.t3.is_alive():
+                        QMessageBox.information(self,'警告','通常每个套接字地址(协议/网络地址/端口)只允许使用一次！请重新进入程序!')
+                        self.close()
+
+
                     self.pushButton.setEnabled(False)
                     self.pushButton_2.setEnabled(True)
-                    QMessageBox.information(self,'提示','开启成功！')
-                    self.label_2.setText('控制台信息：已开FTP服务器IP地址：ftp://'+self.getconfig('address'))
                     self.pushButton_3.setEnabled(True)
                     self.pushButton_4.setEnabled(True)
                     self.pushButton_5.setEnabled(True)
@@ -316,7 +321,7 @@ class mainwid(QMainWindow,Ui_MainWindow):
     def on_pushButton_4_clicked(self):
         try:
             self.outtextEdit()
-
+            self.Update()
         except Exception as e:
             QMessageBox.information(self,'错误',str(e))
 
