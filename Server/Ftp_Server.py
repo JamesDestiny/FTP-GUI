@@ -20,6 +20,7 @@ class ftpServer():
         self.maxconnect=int(self.getconfig('maxcnn'))#定义最大连接数
         self.message=self.getconfig('msg')#定义发送给客户端的连接提示符
 
+
     #获取配置文件信息
     def getconfig(self,strings):
         config=configparser.ConfigParser()

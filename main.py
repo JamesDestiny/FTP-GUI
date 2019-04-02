@@ -337,14 +337,16 @@ class mainwid(QMainWindow,Ui_MainWindow):
     @pyqtSlot()
     #定义菜单栏上退出点击时的操作
     def on_actionexit_triggered(self):
-        sys.exit()
+        try:
+            self.close()
+            sys.exit()
+        except Exception as e:
+            QMessageBox.information(self,'错误',str(e))
 
     @pyqtSlot()
     #定义菜单栏上帮助点击时的操作
     def on_actionhelp_triggered(self):
-
-        time.sleep(2)
-        self.label.close()
+        pass
         #QApplication.processEvents()  # 屏幕刷新
 
         #弹出帮助界面窗口
