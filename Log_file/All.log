@@ -8758,3 +8758,885 @@
 
 2019-04-03 13:31:16,835 - pyftpdlib - INFO - 113.54.200.91:61358-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
 
+2019-04-03 13:34:48,580 - pyftpdlib - INFO - 113.54.200.91:61358-[user] FTP session closed (disconnect).
+
+2019-04-03 13:35:04,349 - pyftpdlib - INFO - 113.54.200.91:61798-[] FTP session opened (connect)
+
+2019-04-03 13:35:04,359 - pyftpdlib - INFO - 113.54.200.91:61798-[user] USER 'user' logged in.
+
+2019-04-03 13:35:04,378 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:35:04,380 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:35:04,382 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:35:04,384 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:35:04,397 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,398 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,400 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,400 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,402 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,402 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,404 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,405 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,406 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,407 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:35:04,422 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,423 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,425 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,426 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,427 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,429 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,430 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,431 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,433 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:35:04,434 - pyftpdlib - INFO - 113.54.200.91:61798-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:39:52,660 - pyftpdlib - INFO - 113.54.200.91:61798-[user] FTP session closed (disconnect).
+
+2019-04-03 13:40:08,553 - pyftpdlib - INFO - 113.54.200.91:62361-[] FTP session opened (connect)
+
+2019-04-03 13:40:08,562 - pyftpdlib - INFO - 113.54.200.91:62361-[user] USER 'user' logged in.
+
+2019-04-03 13:40:08,581 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:40:08,584 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:40:08,585 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:40:08,587 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:40:08,598 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,599 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,601 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,602 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,603 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,604 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,605 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,606 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,607 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,608 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:40:08,620 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,621 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,622 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,624 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,625 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,626 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,627 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,628 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,629 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:40:08,630 - pyftpdlib - INFO - 113.54.200.91:62361-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:40:23,500 - pyftpdlib - INFO - 113.54.200.91:62361-[user] FTP session closed (disconnect).
+
+2019-04-03 13:41:14,211 - pyftpdlib - INFO - 113.54.200.91:62459-[] FTP session opened (connect)
+
+2019-04-03 13:41:14,220 - pyftpdlib - INFO - 113.54.200.91:62459-[user] USER 'user' logged in.
+
+2019-04-03 13:41:14,240 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:41:14,241 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:41:14,243 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:41:14,244 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:41:14,257 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,258 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,259 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,259 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,261 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,262 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,263 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,264 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,265 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,266 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:14,278 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,279 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,280 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,281 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,282 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,283 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,284 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,285 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,287 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:41:14,288 - pyftpdlib - INFO - 113.54.200.91:62459-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:41:35,111 - pyftpdlib - INFO - 113.54.200.91:62459-[user] FTP session closed (disconnect).
+
+2019-04-03 13:41:52,307 - pyftpdlib - INFO - 113.54.200.91:62520-[] FTP session opened (connect)
+
+2019-04-03 13:41:52,316 - pyftpdlib - INFO - 113.54.200.91:62520-[user] USER 'user' logged in.
+
+2019-04-03 13:41:52,335 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:41:52,337 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:41:52,339 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:41:52,341 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:41:52,355 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,357 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,358 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,360 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,362 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,363 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,365 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,366 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,367 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,367 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:41:52,380 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,381 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,382 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,383 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,384 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,386 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,387 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,388 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,389 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:41:52,390 - pyftpdlib - INFO - 113.54.200.91:62520-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:43:54,938 - pyftpdlib - INFO - 113.54.200.91:62520-[user] FTP session closed (disconnect).
+
+2019-04-03 13:44:08,979 - pyftpdlib - INFO - 113.54.200.91:62717-[] FTP session opened (connect)
+
+2019-04-03 13:44:08,988 - pyftpdlib - INFO - 113.54.200.91:62717-[user] USER 'user' logged in.
+
+2019-04-03 13:44:09,005 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:44:09,006 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:44:09,008 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:44:09,009 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:44:09,020 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,022 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,024 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,026 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,027 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,028 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,029 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,030 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,031 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,032 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:44:09,044 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,045 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,046 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,047 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,048 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,048 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,050 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,051 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,052 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:44:09,052 - pyftpdlib - INFO - 113.54.200.91:62717-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:44:13,725 - pyftpdlib - INFO - 113.54.200.91:62717-[user] RETR D:\Desktop\Matalab工程目录\Share_Files\a (5).txt completed=1 bytes=1279 seconds=0.016
+
+2019-04-03 13:45:15,682 - pyftpdlib - INFO - 113.54.200.91:62717-[user] FTP session closed (disconnect).
+
+2019-04-03 13:45:51,597 - pyftpdlib - INFO - 113.54.200.91:62854-[] FTP session opened (connect)
+
+2019-04-03 13:45:51,607 - pyftpdlib - INFO - 113.54.200.91:62854-[user] USER 'user' logged in.
+
+2019-04-03 13:45:51,627 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:45:51,629 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:45:51,630 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:45:51,632 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:45:51,644 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,645 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,646 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,647 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,648 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,649 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,650 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,651 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,652 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,653 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:45:51,666 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,667 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,668 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,669 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,670 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,671 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,672 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,673 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,674 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:45:51,675 - pyftpdlib - INFO - 113.54.200.91:62854-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:50:51,685 - pyftpdlib - INFO - 113.54.200.91:62854-[user] Control connection timed out.
+
+2019-04-03 13:50:51,686 - pyftpdlib - INFO - 113.54.200.91:62854-[user] FTP session closed (disconnect).
+
+2019-04-03 13:52:43,320 - pyftpdlib - INFO - 113.54.200.91:63487-[] FTP session opened (connect)
+
+2019-04-03 13:52:43,324 - pyftpdlib - INFO - 113.54.200.91:63487-[user] USER 'user' logged in.
+
+2019-04-03 13:52:43,335 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:52:43,335 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:52:43,336 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:52:43,337 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:52:43,344 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,344 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,345 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,346 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,346 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,347 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,347 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,348 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,349 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,349 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:52:43,356 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,357 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,358 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,358 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,359 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,359 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,360 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,360 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,361 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:52:43,361 - pyftpdlib - INFO - 113.54.200.91:63487-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:53:09,434 - pyftpdlib - INFO - 113.54.200.91:63487-[user] FTP session closed (disconnect).
+
+2019-04-03 13:54:31,194 - pyftpdlib - INFO - 113.54.200.91:63641-[] FTP session opened (connect)
+
+2019-04-03 13:54:31,204 - pyftpdlib - INFO - 113.54.200.91:63641-[user] USER 'user' logged in.
+
+2019-04-03 13:54:31,222 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:54:31,223 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:54:31,225 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:54:31,226 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:54:31,238 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,239 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,240 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,241 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,242 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,243 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,244 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,245 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,246 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,247 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:54:31,260 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,261 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,262 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,263 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,264 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,265 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,265 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,266 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,267 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:54:31,268 - pyftpdlib - INFO - 113.54.200.91:63641-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:55:02,213 - pyftpdlib - INFO - 113.54.200.91:63641-[user] FTP session closed (disconnect).
+
+2019-04-03 13:55:25,180 - pyftpdlib - INFO - 113.54.200.91:63719-[] FTP session opened (connect)
+
+2019-04-03 13:55:25,190 - pyftpdlib - INFO - 113.54.200.91:63719-[user] USER 'user' logged in.
+
+2019-04-03 13:55:25,210 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:55:25,211 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:55:25,213 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:55:25,214 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:55:25,227 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,229 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,229 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,230 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,231 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,232 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,233 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,234 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,235 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,236 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:55:25,248 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,249 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,251 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,252 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,253 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,254 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,255 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,256 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,257 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:55:25,258 - pyftpdlib - INFO - 113.54.200.91:63719-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:55:36,616 - pyftpdlib - INFO - 113.54.200.91:63719-[user] RETR D:\Desktop\Matalab工程目录\fuction2.m completed=1 bytes=263 seconds=0.0
+
+2019-04-03 13:56:02,289 - pyftpdlib - INFO - 113.54.200.91:63719-[user] FTP session closed (disconnect).
+
+2019-04-03 13:56:38,035 - pyftpdlib - INFO - 113.54.200.91:63825-[] FTP session opened (connect)
+
+2019-04-03 13:56:38,046 - pyftpdlib - INFO - 113.54.200.91:63825-[user] USER 'user' logged in.
+
+2019-04-03 13:56:38,064 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 13:56:38,066 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:56:38,067 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:56:38,069 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 13:56:38,081 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,082 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,083 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,085 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,086 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,087 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,088 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,089 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,090 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,091 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 13:56:38,102 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,104 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,105 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,106 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,107 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,108 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,109 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,110 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,111 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 13:56:38,112 - pyftpdlib - INFO - 113.54.200.91:63825-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 13:56:57,472 - pyftpdlib - INFO - 113.54.200.91:63825-[user] RETR D:\Desktop\Matalab工程目录\fuction2.m completed=1 bytes=263 seconds=0.0
+
+2019-04-03 13:57:37,017 - pyftpdlib - INFO - 113.54.200.91:63825-[user] FTP session closed (disconnect).
+
+2019-04-03 14:02:10,196 - pyftpdlib - INFO - 113.54.200.91:64312-[] FTP session opened (connect)
+
+2019-04-03 14:02:10,207 - pyftpdlib - INFO - 113.54.200.91:64312-[user] USER 'user' logged in.
+
+2019-04-03 14:02:10,225 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 14:02:10,227 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:02:10,228 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:02:10,230 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:02:10,242 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,243 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,244 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,246 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,247 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,247 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,249 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,250 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,251 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,252 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 14:02:10,265 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,267 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,268 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,269 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,270 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,271 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,272 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,273 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,275 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 14:02:10,276 - pyftpdlib - INFO - 113.54.200.91:64312-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 14:02:45,760 - pyftpdlib - INFO - 113.54.200.91:64312-[user] FTP session closed (disconnect).
+
+2019-04-03 14:03:12,697 - pyftpdlib - INFO - 113.54.200.91:64404-[] FTP session opened (connect)
+
+2019-04-03 14:03:12,706 - pyftpdlib - INFO - 113.54.200.91:64404-[user] USER 'user' logged in.
+
+2019-04-03 14:03:12,725 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 14:03:12,727 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:03:12,728 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:03:12,730 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:03:12,742 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,743 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,744 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,745 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,747 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,747 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,748 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,749 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,751 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,752 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 14:03:12,766 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,766 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,767 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,768 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,769 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,770 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,771 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,772 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,773 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 14:03:12,774 - pyftpdlib - INFO - 113.54.200.91:64404-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 14:03:24,709 - pyftpdlib - INFO - 113.54.200.91:64404-[user] FTP session closed (disconnect).
+
+2019-04-03 14:04:15,415 - pyftpdlib - INFO - 113.54.200.91:64496-[] FTP session opened (connect)
+
+2019-04-03 14:04:15,424 - pyftpdlib - INFO - 113.54.200.91:64496-[user] USER 'user' logged in.
+
+2019-04-03 14:04:15,446 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 14:04:15,448 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:04:15,449 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:04:15,450 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:04:15,463 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,464 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,465 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,466 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,467 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,468 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,469 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,470 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,471 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,472 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 14:04:15,483 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,484 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,485 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,487 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,488 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,490 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,491 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,493 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,494 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 14:04:15,496 - pyftpdlib - INFO - 113.54.200.91:64496-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 14:04:18,195 - pyftpdlib - INFO - 113.54.200.91:64496-[user] RETR D:\Desktop\Matalab工程目录\Share_Files\a (5).txt completed=1 bytes=1279 seconds=0.0
+
+2019-04-03 14:05:01,773 - pyftpdlib - INFO - 113.54.200.91:64496-[user] FTP session closed (disconnect).
+
+2019-04-03 14:05:31,250 - pyftpdlib - INFO - 113.54.200.91:64615-[] FTP session opened (connect)
+
+2019-04-03 14:05:31,259 - pyftpdlib - INFO - 113.54.200.91:64615-[user] USER 'user' logged in.
+
+2019-04-03 14:05:31,277 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 14:05:31,279 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:05:31,280 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:05:31,282 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:05:31,294 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,295 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,296 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,297 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,298 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,299 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,300 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,301 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,302 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,303 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 14:05:31,315 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,316 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,317 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,318 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,319 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,320 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,322 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,323 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,324 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 14:05:31,325 - pyftpdlib - INFO - 113.54.200.91:64615-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 14:05:36,176 - pyftpdlib - INFO - 113.54.200.91:64615-[user] RETR D:\Desktop\Matalab工程目录\Share_Files\a (5).txt completed=1 bytes=1279 seconds=0.0
+
+2019-04-03 14:06:11,526 - pyftpdlib - INFO - 113.54.200.91:64615-[user] FTP session closed (disconnect).
+
+2019-04-03 14:06:34,990 - pyftpdlib - INFO - 113.54.200.91:64719-[] FTP session opened (connect)
+
+2019-04-03 14:06:35,000 - pyftpdlib - INFO - 113.54.200.91:64719-[user] USER 'user' logged in.
+
+2019-04-03 14:06:35,023 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 14:06:35,024 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:06:35,027 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:06:35,028 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:06:35,040 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,042 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,043 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,043 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,044 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,045 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,046 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,048 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,048 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,049 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 14:06:35,061 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,062 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,063 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,064 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,065 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,066 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,067 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,068 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,069 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 14:06:35,070 - pyftpdlib - INFO - 113.54.200.91:64719-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 14:06:44,472 - pyftpdlib - INFO - 113.54.200.91:64719-[user] FTP session closed (disconnect).
+
+2019-04-03 14:07:02,921 - pyftpdlib - INFO - 113.54.200.91:64763-[] FTP session opened (connect)
+
+2019-04-03 14:07:02,931 - pyftpdlib - INFO - 113.54.200.91:64763-[user] USER 'user' logged in.
+
+2019-04-03 14:07:02,948 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\Matlab_test_one.doc 550 'Not a directory.'
+
+2019-04-03 14:07:02,949 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:07:02,951 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:07:02,952 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\Share_Files 250
+
+2019-04-03 14:07:02,964 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (1).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,965 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (10).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,966 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (2).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,967 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (3).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,968 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (4).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,969 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (5).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,970 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (6).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,971 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (7).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,972 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (8).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,973 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\a (9).txt 550 'No such file or directory.'
+
+2019-04-03 14:07:02,985 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\fuction1.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,986 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\fuction2.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,987 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\practice_one_function.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,988 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\practice_one_max.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,988 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\practice_one_one.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,990 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\practice_one_otherfunction.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,990 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\practice_one_two.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,992 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\test1.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,992 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\test2.m 550 'Not a directory.'
+
+2019-04-03 14:07:02,993 - pyftpdlib - INFO - 113.54.200.91:64763-[user] CWD D:\Desktop\Matalab工程目录\test3.m 550 'Not a directory.'
+
+2019-04-03 14:07:07,021 - pyftpdlib - INFO - 113.54.200.91:64763-[user] RETR D:\Desktop\Matalab工程目录\Share_Files\a (2).txt completed=1 bytes=1818 seconds=0.031
+
+2019-04-03 14:07:13,391 - pyftpdlib - INFO - 113.54.200.91:64763-[user] RETR D:\Desktop\Matalab工程目录\practice_one_function.m completed=1 bytes=139 seconds=0.0
+
+2019-04-03 14:07:16,715 - pyftpdlib - INFO - 113.54.200.91:64763-[user] FTP session closed (disconnect).
+

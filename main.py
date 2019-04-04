@@ -1,4 +1,3 @@
-import sys
 import time
 import configparser
 from PyQt5.QtCore import *
@@ -424,7 +423,3 @@ class mainwid(QMainWindow,Ui_MainWindow):
 
 
 
-app = QApplication(sys.argv)
-ui = mainwid()
-ui.show()
-sys.exit(app.exec_())#系统退出
