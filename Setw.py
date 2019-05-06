@@ -7,7 +7,6 @@ import socket
 from UI.本机IP地址 import *
 
 
-
 #定义获取本机IP地址界面
 class Getip_w(QDialog,Ui_Dialog5):
     def __init__(self):

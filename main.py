@@ -250,6 +250,8 @@ class mainwid(QMainWindow,Ui_MainWindow):
                     try:
                         SetW = Set_Window()
                         SetW.exec_()
+                        QMessageBox.information(self,'提示','配置文件已更新，请重新启动')
+                        self.close()
                     except Exception as e:
                         QMessageBox.information(self,'错误',str(e))
                 else:
